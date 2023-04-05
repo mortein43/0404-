@@ -267,6 +267,7 @@ namespace _0404_дроби
                             label11.Text = Convert.ToString(resNumerator);
                             label12.Text = Convert.ToString(b);
                             label9.Text = " ";
+                            label9.Text = "_______";
                         } else
                         {
                             int resInt = a / b;
