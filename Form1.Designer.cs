@@ -294,9 +294,9 @@
             // label20
             // 
             this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(290; 365);
+            this.label20.Location = new System.Drawing.Point(290, 365);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(450; 15);
+            this.label20.Size = new System.Drawing.Size(450, 15);
             this.label20.TabIndex = 31;
             this.label20.Text = "*Для скорочення дробу або виокремлення цілої частини враховується дріб №1.";
             // 
