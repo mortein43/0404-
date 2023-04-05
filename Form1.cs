@@ -236,6 +236,7 @@ namespace _0404_дроби
                     label11.Text = Convert.ToString(numerator1);
                     label12.Text = Convert.ToString(denominator1);
                     label9.Text = "_______";
+                    label19.Text = " ";
                 }
 
 
